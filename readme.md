@@ -2,4 +2,4 @@
 
 <hr/>
 
-### [Live Website](https://cv-template-rasulsonmez.netlify.app/)
+### [Live Website](https://myportfolio-rasulsonmez.netlify.app/)
