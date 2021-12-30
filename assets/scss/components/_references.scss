@@ -1,0 +1,14 @@
+//--REFERENCES--//
+.references {
+  &__content {
+    gap: 0.25rem;
+  }
+  &__subtitle {
+    color: var(--text-color-light);
+    font-size: var(--h3-font-size);
+  }
+  &__subtitle,
+  &__contact {
+    font-size: var(--smaller-font-size);
+  }
+}
