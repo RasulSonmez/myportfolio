@@ -326,10 +326,11 @@ html {
 }
 
 .home__img {
-  width: 300px;
+  width: 150px;
   -ms-grid-column-align: center;
       justify-self: center;
   margin-bottom: var(--mb-1);
+  border-radius: 50%;
 }
 
 .home__title {
@@ -695,6 +696,7 @@ body.dark-theme {
 }
 
 .portfolio__item {
+  display: block;
   position: relative;
   overflow: hidden;
   -webkit-box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
